@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Mykola Konotop, QA Engineer with 3+ years experience of manual testing web (front-end, back-end), mobile (Android, iOS), API (Postman), SQL (MySQL), VR and 1 year experience of automated testing (JavaScript/Cypress).
+
+Contact with me:
+
+![Static Badge](https://img.shields.io/badge/live%3A.cid.2731b1abdcdc012b-8A2BE2?style=social&logo=skype&link=live%3A.cid.2731b1abdcdc012b)
+![Static Badge](https://img.shields.io/badge/mykola.konotop.ua%40gmail.com-8A2BE2?style=social&logo=gmail&link=mailto%3Amykola.konotop.ua%40gmail.com)
+![Static Badge](https://img.shields.io/badge/linkedin.com%2Fin%2Fmykola--konotop--247938199-8A2BE2?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmykola-konotop-247938199%2F)
+<br>
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mykola-konotop&show_icons=true&theme=highcontrast)](https://github.com/mykola-konotop/github-readme-stats)
 
 <!--
 **Mykola-Konotop/Mykola-Konotop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
