@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mykola Konotop, Middle QA Engineer with 3+ years experience of manual testing web (front-end, back-end), mobile (Android, iOS), API (Postman), SQL (MySQL), VR and 1 year experience of automated testing (JavaScript/Cypress).
+I'm Mykola Konotop, Middle QA Engineer with 3+ years experience of manual testing <br> web (front-end, back-end), mobile (Android, iOS), API (Postman), SQL (MySQL), VR <br> and 1 year experience of automated testing (JavaScript/Cypress).
 
 📧 Contact with me:
 
