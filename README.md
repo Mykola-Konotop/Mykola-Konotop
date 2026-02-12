@@ -3,7 +3,7 @@ I'm Mykola Konotop, QA Engineer with 5+ years experience of manual testing web <
 
 📧 Contact with me:
 
-[![Gmail Badge](https://img.shields.io/badge/mykola.konotop.ua%40gmail.com-8A2BE2?style=social&logo=gmail&link=mailto%3Amykola.konotop.ua%40gmail.com)](mailto:mykola.konotop.ua@gmail.com)
+[![Gmail Badge](Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto%3Amykola.konotop.ua%40gmail.com)](mailto:mykola.konotop.ua@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmykola-konotop-247938199%2F)](https://www.linkedin.com/in/mykola-konotop-247938199/)
 
 ### Top Technologies
